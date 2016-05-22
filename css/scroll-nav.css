@@ -1,0 +1,200 @@
+
+body {
+    width: 100%;
+    height: 100%;
+	font-family:sans-serif,monospace;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+
+.navbar{
+	background-color:rgba(0,0,0,0.9);
+	border:0;
+		
+	font-family:sans-serif;
+	font-style:oblique;
+	font-weight:bold;
+	color:white;	
+}
+
+.navbar .container .nav > li> a:hover{
+	color:white  ;
+//	background:rgba(128,128,128,0.5);
+}
+
+.navbar .container .nav > li >a:active{
+    color:white;
+    
+	background:rgba(128,128,128,0.1);
+}
+
+.navbar-nav .active > a{
+	background: rgba(72,72,72,0.7) !important;
+	color:white !important;
+}
+
+
+
+/*
+#home::before{
+	margin:0;
+	border:0;
+	content:"";	    
+	position: absolute;
+	z-index: -1;
+	display:block;	
+	background: url("/paris.jpg");
+	width: 100%;
+	height: 100%;
+    filter: blur(5px);
+}*/
+
+#home {
+	min-height:100%;
+    padding-top: 32vh;
+    text-align: center;
+//	background: url("/blurryclouds.png");// #1E88E5;	
+//	background-size:cover;
+	background:white;
+	color: black;
+	font-family:monospace;
+
+}
+
+.mainhr{
+	border-style:solid;
+	border-color: black;
+	border-width: 3px;
+}
+
+#downarrow{
+	height:48px;
+	width:48px;
+	transition-duration: 1s;
+}
+
+#downarrow:hover {
+
+	height:64px;
+	width:64px;
+	transition-duration: 1s;
+}
+
+
+
+#about {
+    min-height: 100%;
+    padding-top: 5.5vmax;
+    text-align: left;
+	color: white;
+    background: #428bca;
+}
+
+#portfolio {
+    min-height: 100%;
+    padding-top: 5.5vmax;
+    text-align: left;
+	color: Black;
+    background:white;
+}
+
+#contact {
+    min-height: 100%;
+    padding-top: 5.5vmax;
+    text-align: left;
+    background: #131e40;
+	color:white;
+}
+
+#blog {
+    min-height: 100%;
+    padding-top:5.5vmax;
+    text-align: left;
+    background: white;
+}
+
+
+.maintitle{
+	font-size:7vmax;
+	color:black;
+}
+
+.title{
+	font-size: 10vmin;
+	text-align:left;
+}
+
+.mainintro{
+	font-size:3vmax;
+}
+.mainintro2{
+	font-size:2.5vmax;
+}
+
+#emailstyle{
+	color:rgb(225,225,225);
+	font-weight:bold;
+	font-size:6vmin;
+}
+
+#emailstyle:hover{
+	color:white;
+	text-decoration:none;
+	font-weight:bold;
+}
+#emailtext{
+	font-size:6vmin;
+}
+
+textarea {
+	resize:vertical;
+	
+}
+
+
+img {
+	height:auto ;
+	max-width:90%;
+}
+
+section{
+	overflow:auto;
+	height:auto;
+}
+
+td {
+	width:50% !important;
+	height:auto !important;
+}
+
+table{
+	width: 100% !important;
+	height:auto !important;
+}
+
+
+@media screen and (min-width: 720px){
+	.maintitle{
+		font-size:60px;
+		color:black;
+	}
+
+	.title{
+		font-size: 45px;
+		text-align:left;
+	}
+
+	.mainintro{
+		font-size:30px;
+	}
+	.mainintro2{
+		font-size:25px;
+	}
+}
+
+
+

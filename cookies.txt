@@ -1,0 +1,27 @@
+# HTTP Cookie File for domains related to google.ca.
+# Downloaded with cookies.txt Chrome Extension (https://chrome.google.com/webstore/detail/njabckikapfpffapmjgojcnbfjonfjfg)
+# Example:  wget -x --load-cookies cookies.txt https://scholar.google.ca/scholar?q=t&amp;hl=en&amp;as_sdt=0,5
+#
+.google.ca	TRUE	/insidesearch/howsearchworks/	FALSE	1526953429	__utma	240304277.288276815.1463881429.1463881429.1463881429.1
+.google.ca	TRUE	/insidesearch/howsearchworks/	FALSE	0	__utmc	240304277
+.google.ca	TRUE	/insidesearch/howsearchworks/	FALSE	1479649429	__utmz	240304277.1463881429.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+.google.ca	TRUE	/sheets/about/	FALSE	1524354640	__utma	240304277.180106668.1454640605.1461033839.1461282639.22
+.google.ca	TRUE	/sheets/about/	FALSE	1477050640	__utmz	240304277.1461282639.22.22.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+.google.ca	TRUE	/slides/about/	FALSE	1525909871	__utma	240304277.1099027142.1461621386.1461621386.1462837866.2
+.google.ca	TRUE	/slides/about/	FALSE	1478605871	__utmz	240304277.1462837866.2.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+.google.ca	TRUE	/docs/about/	FALSE	1524106648	__utma	240304277.233397477.1449076525.1461018220.1461018220.35
+.google.ca	TRUE	/docs/about/	FALSE	1476802648	__utmz	240304277.1461018220.34.34.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+www.google.ca	FALSE	/accounts	FALSE	1524105875	GAPS	1:8KLT9QzYIRktgKInBb_UoGTvyBH_Wg:Ki0ujod8dV4IL4AM
+.google.ca	TRUE	/verify	FALSE	1479687343	SNID	79=Npf8lCK2JIlbL4atuuRwuHBjoqR05KTYF0DafZ4YTw=GiDNO6z03oMFhraO
+.google.ca	TRUE	/	FALSE	1509493838	__utmx	240304277.QC9CzhccTMi_IDj_uEUwjQ$0:0
+.google.ca	TRUE	/	FALSE	1509493838	__utmxx	240304277.QC9CzhccTMi_IDj_uEUwjQ$0:1461282638:8035200
+.google.ca	TRUE	/	FALSE	2407969056	OGPC	5061899-16:5061921-17:5061574-1:5061952-9:5061983-13:5061991-9:103910400-5:5061968-35:5062006-24:5062035-57:681502720-5:5062081-5:5062092-7:
+.google.ca	TRUE	/	FALSE	1525911274	SID	QwNu8_0igO97Vft_IggzDyPjxF9gJbObVUeYywIMem3wqbbN5UYebxrw-bElhss4_gZC5w.
+.google.ca	TRUE	/	FALSE	1525911274	HSID	Aw2TEal83Es9Dyu22
+.google.ca	TRUE	/	TRUE	1525911274	SSID	AYnm19Rresno_7EsS
+.google.ca	TRUE	/	FALSE	1525911274	APISID	WUoveqFUr_q8YrYq/A4phyO6CnrNDF_5gg
+.google.ca	TRUE	/	TRUE	1525911274	SAPISID	YWjyEa0sCRyngoqR/AonPfxP_XCAZs_zPa
+.translate.google.ca	TRUE	/	FALSE	1525911431	_ga	GA1.3.525857649.1454633589
+.google.ca	TRUE	/	FALSE	1479702246	NID	79=i9z23Va18EtmgP1WNcu1pBhPUvDy1mId10adUrTSgtyzpCRp6EPWtFut6_KjcavYG_HA_YDwIq_Xn-agJfP9yltt010KI4hCoSA72ddoY-7Qu069tx2fgNq27jmXWU_Qo9ZZC56lM21m46eAlottO7HZUlhgjmsAdwnOi6-rXTi8qaor55eFAoilh2kUI8w3WWcAfRg3JNdZwdjKCPkZ4wbBDwlS_mx9rwrlDo1m12elFk7tqASalF3fCbyc6vAkWlwhoQWUTeUIdJUXX6__fyGd1dxBMEbSy4iCSFYjpDxrHk9sgaD-f96V8L4nqoeleIS0N1GCMY287jtNw3ap_CQuvZOnHsbfiu_jF8apRI-j5C50E0cSUERbt1fuBLCkYPeBi5v4oA
+.scholar.google.ca	TRUE	/	FALSE	1526965788	GSP	A=jeMYWw:CPTS=1463893788:LM=1463893788:S=Z734HH_vrh46bBkO
+www.google.ca	FALSE	/	FALSE	1463894408	DV	krm2IsO-B8pLZDJOLOrsKW0sfr2tqYLdfCV3B3KNMwAAABqvoJMAjjbNEwAAAM2Ehep6onT2BwAAAA
