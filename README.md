@@ -7,16 +7,12 @@ Imagine it's 3:00am and you have a paper on hamlet due tommorow and for some god
 
 ##Features
 
-*All the sources are from scholarly articles
-*Bibliographies are produced using MLA format
-*All sources are cited using infomation fetched with a web crawler
-
-
-
-
+..*All the sources are from scholarly articles
+..*Bibliographies are produced using MLA format
+..*All sources are cited using infomation fetched with a web crawler
 
 ##What We Used To Build This
-*Python
-*JQuery
-*Google Scholar Seach API
-*Bootstrap
+..*Python
+..*JQuery
+..*Google Scholar Seach API
+..*Bootstrap
